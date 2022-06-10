@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align='center'>
-  I'm a CSE final year student at NITH. Currently I'm working as a Machine Learning Engineering Intern at The Tann Mann Foundation. I'm a Machine learning , Deep leanring , Computer Vision and Data Science enthusiast. Feel free to connect with me at :
+  I'm a CSE final year student at NITH. Currently I'm working as a Machine Learning Engineering Intern at The Tann Mann Foundation. I'm a Machine learning , Deep learning , Computer Vision and Data Science enthusiast. Feel free to connect with me at :
 </h3>
 
 
