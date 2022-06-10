@@ -49,5 +49,11 @@
 
 
 <p align='center'>
+      <a href="https://github.com/kratika327goyal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Goyal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham327goyal&theme=react"/>
+        &nbsp;
+    </a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham327goyal&count_private=true&show_icons=true&theme=react"></a>
+  <br><br>
+   <a href="https://github.com/shubham327goyal/github-readme-stats"><img alt="Shubham Goyal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham327goyal&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
 </p>
